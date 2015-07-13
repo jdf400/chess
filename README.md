@@ -1,1 +1,1 @@
-Basic Chess and Checkers with an easter egg, enjoy.
+Basic Chess and Checkers written in Java with an easter egg, enjoy.
